@@ -16,8 +16,10 @@ Python es un lenguaje de programación versátil y amigable con una sintaxis cla
 
 ## Ejemplos
 
-- 📄 `01_fundamentos.py`: Ejemplos de sintaxis básica y tipos de datos.
-- 📄 `02_estruturas.py`: Ejemplos de estructuras de control y uso de estructuras de datos.
+- 📄 `01__fundamentos.py`: Ejemplos de sintaxis básica y tipos de datos.
+- 📄 `02__estruturas.py`: Ejemplos de estructuras de control y uso de estructuras de datos.
+- 📄 `02_01_listas_de_comprension.py`: Ejemplos de listas de comprensión y cómo se utilizan para generar listas con facilidad.
+- 📄 `02_02_diccionarios_por_comprension.py`: Ejemplos de diccionarios por comprensión y cómo se utilizan para crear diccionarios eficientemente.
 
 Si eres nuevo en Python, te recomendamos comenzar por los ejemplos en los archivos `01_fundamentos.py` y `02_estruturas.py`.
 
