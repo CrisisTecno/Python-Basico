@@ -14,14 +14,22 @@ Este repositorio contiene ejemplos y recursos relacionados con la programación 
 
 Python es un lenguaje de programación versátil y amigable con una sintaxis clara y legible. Este repositorio contiene ejemplos de código que cubren los fundamentos de Python.
 
-## Ejemplos
+## Fundamentos
 
 - 📄 `01__fundamentos.py`: Ejemplos de sintaxis básica y tipos de datos.
+
+## Estructura de Datos
+
 - 📄 `02__estruturas.py`: Ejemplos de estructuras de control y uso de estructuras de datos.
 - 📄 `02_01_listas_de_comprension.py`: Ejemplos de listas de comprensión y cómo se utilizan para generar listas con facilidad.
 - 📄 `02_02_diccionarios_por_comprension.py`: Ejemplos de diccionarios por comprensión y cómo se utilizan para crear diccionarios eficientemente.
 - 📄 `02_03_operaciones_listas.py`: Ejemplos de operaciones con listas con variedad de utilidades.
 - 📄 `02_04_operaciones_diccionarios.py`: Ejemplos de operaciones con diccionarios y su gran uso.
+
+## Programación Orientada a Objetos (POO)
+
+- 📄 `03__POO.py`: Ejemplo de programación orientada a objetos (POO) que cubre los pilares de la POO.
+- 📄 `03_01_metodos_especiales.py`: Ejemplos de métodos especiales (dunder methods) en Python.
 
 Si eres nuevo en Python, te recomendamos comenzar por los ejemplos en los archivos `01_fundamentos.py` y `02_estruturas.py`.
 
