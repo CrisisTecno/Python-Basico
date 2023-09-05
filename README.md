@@ -30,6 +30,7 @@ Python es un lenguaje de programación versátil y amigable con una sintaxis cla
 
 - 📄 `03__POO.py`: Ejemplo de programación orientada a objetos (POO) que cubre los pilares de la POO.
 - 📄 `03_01_metodos_especiales.py`: Ejemplos de métodos especiales (dunder methods) en Python.
+- 📄 `03_02_ejemplo_poo.py`: Ejemplo de programación orientada a objetos (POO) que cubre los pilares de la POO.
 
 Si eres nuevo en Python, te recomendamos comenzar por los ejemplos en los archivos `01_fundamentos.py` y `02_estruturas.py`.
 
